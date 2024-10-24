@@ -1,0 +1,12 @@
+h5py==3.11.0
+imageio==2.35.1
+numpy
+opencv_python==4.10.0.84
+pandas
+Pillow==10.4.0
+pytorch_lightning==2.4.0
+scipy
+segmentation_models_pytorch
+scikit-image
+torch==2.4.0
+
